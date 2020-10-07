@@ -6,3 +6,5 @@ https://iph0ne.gq</br>
 https://www.humanflavoredsoap.ga</br>
 https://iscream.cf/</br>
 https://p90chan.ga/</br>
+https://lololol.tk</br>
+https://
