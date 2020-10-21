@@ -6,6 +6,6 @@ How to deploy this on repl.it, no account needed. Just press the button below an
 [![Run on Repl.it](https://repl.it/badge/github/titaniumnetwork-dev/alloyproxy)](https://repl.it/github/rockpods/HumanFlavoredSoap)
 
 SITE LIST:</br>
-https://humanflavoredsoap.ga</br>
+https://iphoneflavoredsoap.ga</br>
 I am removing support for all sites except main for now. I am doing this so I can focus on updating just one and once I start to get it how I like it so its not updating every five minutes I will open a lot of sites.
 <h1>Thanks to Divide and Emerald for helping me.</h1>
